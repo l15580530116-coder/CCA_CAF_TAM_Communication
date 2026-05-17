@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+openpyxl
+PyMuPDF
+python-docx
+docx2pdf
+Pillow

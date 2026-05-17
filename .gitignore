@@ -1,0 +1,45 @@
+# Data files (download separately from GDC/GEO)
+data/
+
+# R temporary files
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+
+# Archives
+*.tar
+*.tar.gz
+*.gz
+*.zip
+*.7z
+
+# Large bioinformatics formats
+*.h5
+*.h5ad
+*.loom
+*.mtx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pkl
+
+# Docking intermediates
+*.pdbqt
+*.sdf
+*.pdb
+
+# Submission packages (not for GitHub)
+submission_CSBJ*/
+submission_CSBJ_*/
+
+# Generated figure directories
+figures/main_final*/
+figures/supplementary*/
+figures/main_repaired/
+figures/editable/
+
+# System files
+.DS_Store
+Thumbs.db
