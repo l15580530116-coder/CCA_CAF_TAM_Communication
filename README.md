@@ -71,6 +71,10 @@ All raw data are publicly available and must be downloaded separately:
 
 Raw data are not included due to size and database redistribution policies. Users should download data from GDC and GEO using the accession numbers above. Scripts are numbered by analysis order and include headers specifying purpose, input, output, and methods.
 
+## Funding
+
+This work was supported by the National Natural Science Foundation of China (No. 82260136), and the Finance Science and Technology Project of Hainan Province (Nos. ZDYF2021SHFZ053 and YSPTZX202027).
+
 ## Citation
 
 If using this repository, please cite the associated manuscript once available.
